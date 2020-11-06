@@ -35,3 +35,12 @@ const whoIsOlder = () => {
 
 }
 whoIsOlder();
+
+
+// How old is Joza in dog years? 
+
+
+let laterAgeJoza = joza - 2;
+laterAgeJoza*=4;
+let totalDogYearsJoza = earlyYears + laterAgeJoza;
+console.log('Joža in dog years: ' + totalDogYearsJoza); 
