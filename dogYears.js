@@ -16,7 +16,7 @@ let laterYears = myAge - 2;
 laterYears*=4;
 
 let totalDogYears = earlyYears + laterYears;
-console.log(`If I was a dog I would now be ${totalDogYears} years old.`)
+console.log(`If I were a dog I would now be ${totalDogYears} years old.`)
 
 // Comparison with the oldest living Croatian legend - Joža Manolić!
 
